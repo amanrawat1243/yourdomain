@@ -217,7 +217,7 @@ margin: 10px;
     float: left !important;
 
     
-    background: url(/project/images/icons/3.png)!important;
+    background: url(images/icons/3.png)!important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: 6px !important;
@@ -238,14 +238,14 @@ margin: 10px;
 
   
 
-  /* background: url(/project/images/icons/red-dot.svg) !important;
+  /* background: url(images/icons/red-dot.svg) !important;
   background-size: contain !important;
   background-position:  center !important;
   
   background-size: 1000px !important; */
   position: fixed !;
   
-   background: url(/project/images/icons/1.png) !important;
+   background: url(images/icons/1.png) !important;
    background-position: center !important;
    background-repeat: no-repeat !important;
    background-size:contain !important;
